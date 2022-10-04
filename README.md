@@ -85,8 +85,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD4.git
-cd CheemsBot-MD4
+git clone https://github.com/knowladge-hunter/Dare-Devil.git
+cd Dare-Devil
 
 npm start
 ```
@@ -102,8 +102,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD
+git clone https://github.com/knowladge-hunter/Dare-Devil
+cd Dare-devil
 npm start
 ```
 ## `For VPS`
@@ -114,8 +114,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
+git clone https://github.com/knowladge-hunter/Dare-Devil
+cd Dare-Devil
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
